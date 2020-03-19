@@ -1,0 +1,427 @@
+{
+    "metadata": {
+        "id": 3,
+        "project_id": 4,
+        "domain": "rampiq-sitebuild.wrg-apps.com",
+        "locale": "US",
+        "language": "EN",
+        "brand_color": "#42bff5",
+        "button_color": "#42bff5",
+        "email": "johnny@mailinator.com",
+        "phone": "09876543218",
+        "facebook": "https://www.facebook.com/nike/",
+        "pinterest": "https://in.pinterest.com/nike/",
+        "instagram": "https://www.instagram.com/nike/",
+        "twitter": "https://twitter.com/Nike/",
+        "created_at": "2020-03-14 08:20:18",
+        "updated_at": "2020-03-17 07:35:40",
+        "logo_image": "https://cdn.freebiesupply.com/images/large/2x/premier-league-logo-png-transparent.png",
+        "favicon_image": "https://pngimg.com/uploads/football/football_PNG52775.png",
+        "social": [
+            "https://www.instagram.com/nike/",
+            "https://www.facebook.com/nike/",
+            "https://in.pinterest.com/nike/",
+            "https://twitter.com/Nike/"
+        ],
+        "url": "/"
+    },
+    "navigation": {
+        "top": {
+            "right": [
+                {
+                    "name": "Home",
+                    "url": "/",
+                    "slug": "/",
+                    "title": "Home"
+                }
+            ],
+            "left": [
+                {
+                    "name": "contact",
+                    "url": "/contact",
+                    "slug": "/contact",
+                    "title": "contact"
+                }
+            ]
+        },
+        "bottom": {
+            "left": [
+                {
+                    "name": "Contact",
+                    "url": "/contact",
+                    "slug": "/contact",
+                    "title": "Contact"
+                }
+            ],
+            "copyright": "Where Everyone Bangs \u00a9JUSTBANG",
+            "disclaimer": "WARNING !!!. This site contains sexually oriented adult material intended for individuals 18 years of age or older. If you are not yet 18, if adult material offends you, or if you are accessing this site from any country or locale where adult material is prohibited by law, PLEASE LEAVE NOW! If you understand and accept these terms, you may ENTER."
+        }
+    },
+    "pages": [
+        {
+            "id": 5,
+            "project_id": 4,
+            "url": "contact",
+            "keyword": "asdasdas",
+            "template": "base_template",
+            "title": "Added live config details",
+            "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+            "created_at": "2020-03-14 08:35:45",
+            "updated_at": "2020-03-14 08:35:45",
+            "canonical": "https://paceind.com/lightweighting/",
+            "meta": {
+                "lang": "en",
+                "keywords": "asdasdas",
+                "canonical": "https://paceind.com/lightweighting/",
+                "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                "url": "https://paceind.com/lightweighting/",
+                "og": {
+                    "locale": "US",
+                    "type": "website",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "url": "https://paceind.com/lightweighting/",
+                    "site": "https://paceind.com/lightweighting/",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png"
+                },
+                "twitter": {
+                    "card": "Added live config details",
+                    "site": "https://paceind.com/lightweighting/",
+                    "creator": "@Nike",
+                    "url": "https://paceind.com/lightweighting/",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png"
+                },
+                "data": {
+                    "domain": "rampiq-sitebuild.wrg-apps.com",
+                    "url": "rampiq-sitebuild.wrg-apps.com",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png",
+                    "logo": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png",
+                    "social": [
+                        "https://www.instagram.com/nike/",
+                        "https://www.facebook.com/nike/",
+                        "https://in.pinterest.com/nike/",
+                        "https://twitter.com/Nike/"
+                    ]
+                },
+                "favicon": {
+                    "default": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_128": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_144": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_152": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png"
+                }
+            },
+            "content": [
+                {
+                    "id": 28,
+                    "page_id": 5,
+                    "content_type_id": 10,
+                    "cta": "werw",
+                    "cta_link": "erwerw",
+                    "text_content": "erwerwer",
+                    "small_text": "<h1 class=title>Heading</h1><p class='is-size-5'>Lorem&#39;s Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "slider",
+                    "type": "slider",
+                    "cta_button": {
+                        "name": "werw",
+                        "link": "erwerw"
+                    },
+                    "images": [
+                        {
+                            "id": 19,
+                            "content_id": 28,
+                            "name": "7cea30aa71ce9e7d7035f7156d6bcbb7.jpg",
+                            "alt": "wallhaven-vg5rzl.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+
+                        },
+                        {
+                            "id": 20,
+                            "content_id": 28,
+                            "name": "7cea30aa71ce9e7d7035f7156d6bcbb7.jpg",
+                            "alt": "wallhaven-vg5rzl.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://www.petmd.com/sites/default/files/adult-homeless-cat-asking-for-food-picture-id847415388.jpg"
+                        },
+                        {
+                            "id": 21,
+                            "content_id": 28,
+                            "name": "7cea30aa71ce9e7d7035f7156d6bcbb7.jpg",
+                            "alt": "wallhaven-vg5rzl.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/reference_guide/cats_and_excessive_meowing_ref_guide/1800x1200_cats_and_excessive_meowing_ref_guide.jpg"
+                        },
+                        {
+                            "id": 1,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                        },
+                        {
+                            "id": 2,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://image.shutterstock.com/image-photo/blue-compact-suv-car-sport-260nw-764866978.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        },
+                        {
+                            "id": 4,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.livemint.com/img/2019/12/06/600x338/Cybertruck_1575556200108_1575618648929.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "page_id": 5,
+                    "content_type_id": 20,
+                    "cta": null,
+                    "cta_link": null,
+                    "text_content": "<h2 class='subtitle'>Heading</h2><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "small_text": null,
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "text",
+                    "type": "text",
+                    "cta_button": {
+                        "name": null,
+                        "link": null
+                    },
+                    "images": []
+                },
+                {
+                    "id": 30,
+                    "page_id": 5,
+                    "content_type_id": 20,
+                    "cta": null,
+                    "cta_link": null,
+                    "text_content": "<h2 class='subtitle'>Heading</h2><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "small_text": null,
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "text",
+                    "type": "text",
+                    "cta_button": {
+                        "name": null,
+                        "link": null
+                    },
+                    "images": []
+                },
+                {
+                    "id": 31,
+                    "page_id": 5,
+                    "content_type_id": 10,
+                    "cta": "asdasd",
+                    "cta_link": "asdasdasdasd",
+                    "text_content": "asdasdasdasdasd",
+                    "small_text": "<h1>Heading</h1><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "slider",
+                    "type": "slider",
+                    "cta_button": {
+                        "name": "asdasd",
+                        "link": "asdasdasdasd"
+                    },
+                    "images": [
+                        {
+                            "id": 1,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                        },
+                        {
+                            "id": 2,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://image.shutterstock.com/image-photo/blue-compact-suv-car-sport-260nw-764866978.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        },
+                        {
+                            "id": 4,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.livemint.com/img/2019/12/06/600x338/Cybertruck_1575556200108_1575618648929.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "project_id": 4,
+            "url": "company",
+            "keyword": "asdasdas",
+            "template": "base_template",
+            "title": "RampIQ",
+            "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+            "created_at": "2020-03-14 08:35:45",
+            "updated_at": "2020-03-14 08:35:45",
+            "canonical": "https://paceind.com/lightweighting/",
+            "meta": {
+                "lang": "en",
+                "keywords": "asdasdas",
+                "canonical": "https://paceind.com/lightweighting/",
+                "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                "url": "https://paceind.com/lightweighting/",
+                "og": {
+                    "locale": "US",
+                    "type": "website",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "url": "https://paceind.com/lightweighting/",
+                    "site": "https://paceind.com/lightweighting/",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png"
+                },
+                "twitter": {
+                    "card": "Added live config details",
+                    "site": "https://paceind.com/lightweighting/",
+                    "creator": "@Nike",
+                    "url": "https://paceind.com/lightweighting/",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png"
+                },
+                "data": {
+                    "domain": "rampiq-sitebuild.wrg-apps.com",
+                    "url": "rampiq-sitebuild.wrg-apps.com",
+                    "title": "Added live config details",
+                    "description": "lorem iopumgh. jknnlkkln. lkjlkjlkj lkjlkj ljlkjl jlk jlkj jlk jlkjlkl",
+                    "image": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png",
+                    "logo": "http://localhost:8000/images/project/5a951939c4ffc33e8c148af2.png",
+                    "social": [
+                        "https://www.instagram.com/nike/",
+                        "https://www.facebook.com/nike/",
+                        "https://in.pinterest.com/nike/",
+                        "https://twitter.com/Nike/"
+                    ]
+                },
+                "favicon": {
+                    "default": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_128": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_144": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png",
+                    "favicon_152": "http://localhost:8000/images/project/5b37e1252751046a99744b7b.png"
+                }
+            },
+            "content": [
+                {
+                    "id": 30,
+                    "page_id": 5,
+                    "content_type_id": 20,
+                    "cta": null,
+                    "cta_link": null,
+                    "text_content": "<h2 class='subtitle'>Heading</h2><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "small_text": null,
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "text",
+                    "type": "text",
+                    "cta_button": {
+                        "name": null,
+                        "link": null
+                    },
+                    "images": []
+                },
+                {
+                    "id": 31,
+                    "page_id": 5,
+                    "content_type_id": 10,
+                    "cta": "asdasd",
+                    "cta_link": "asdasdasdasd",
+                    "text_content": "asdasdasdasdasd",
+                    "small_text": "<h1>Heading</h1><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>",
+                    "created_at": "2020-03-14 10:50:46",
+                    "updated_at": "2020-03-14 10:50:46",
+                    "content_type": "slider",
+                    "type": "slider",
+                    "cta_button": {
+                        "name": "asdasd",
+                        "link": "asdasdasdasd"
+                    },
+                    "images": [
+                        {
+                            "id": 1,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                        },
+                        {
+                            "id": 2,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://image.shutterstock.com/image-photo/blue-compact-suv-car-sport-260nw-764866978.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                        },
+                        {
+                            "id": 4,
+                            "content_id": 30,
+                            "name": "ec479092398b6e681e5df11f56cc75bd.jpg",
+                            "alt": "wallhaven-73rzyo.jpg",
+                            "created_at": "2020-03-14 10:50:46",
+                            "updated_at": "2020-03-14 10:50:46",
+                            "path": "https://images.livemint.com/img/2019/12/06/600x338/Cybertruck_1575556200108_1575618648929.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
